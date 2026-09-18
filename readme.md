@@ -27,9 +27,9 @@
 
 ### overview
 
-| schematic                           | pcb                    |
-| ----------------------------------- | ---------------------- |
-| ![schematic](assets/schematics.png) | ![pcb](assets/pcb.png) |
+| schematic                          | pcb                    |
+| ---------------------------------- | ---------------------- |
+| ![schematic](assets/schematic.png) | ![pcb](assets/pcb.png) |
 
 ### layered pcb routes
 
